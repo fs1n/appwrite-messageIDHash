@@ -1,8 +1,8 @@
 {
-  "name": "starter-template",
+  "name": "appwrite-message-id-hash",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/main.js",
+  "description": "Appwrite function for creating deterministic conversation IDs and storing messages",
+  "main": "hash.js",
   "type": "module",
   "scripts": {
     "format": "prettier --write ."
